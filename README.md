@@ -1,10 +1,10 @@
 _V
 ==============================
-The filed included in this repository is production WebGL version.
-Source files are shared via UnityColab.
+The filed included in this repository is production WebGL version.  
+Source files are shared via UnityColab.  
 
-A first-person tower-defense game developed in Unity3D. With custom models and scripts.
-In collaboration with Peter Roehl.
+A first-person tower-defense game developed in Unity3D. With custom models and scripts.  
+In collaboration with Peter Roehl.  
 
 [Watch a gameplay demo here](https://youtu.be/S02pxRoxssk)
 
