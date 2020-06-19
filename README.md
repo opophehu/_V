@@ -6,6 +6,8 @@ Source files are shared via UnityColab.
 A first-person tower-defense game developed in Unity3D. With custom models and scripts.
 In collaboration with Peter Roehl.
 
+[Watch a gameplay demo here](https://youtu.be/S02pxRoxssk)
+
 ![ProjImage](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/_Vicon.jpg)
 
 ![ProjImage2](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/v1.jpg)
