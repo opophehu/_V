@@ -1,4 +1,4 @@
-_V - A
+_V
 ==============================
 A first-person tower-defense game developed in Unity3D.  
 By Da Guo & Peter Roehl.
