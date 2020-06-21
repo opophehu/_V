@@ -9,7 +9,7 @@ Game features 4 types of tower including: cannon, laser, missile, and shield.
 Many types of player weapons including: pistol, sniper, SMG, rifle, grenade launcher, etc.
 And 4 types of custom modeled enemies.
 
-[Watch a gameplay demo here](https://www.youtube.com/watch?v=S02pxRoxssk) 
+[Watch a gameplay demo here](https://www.youtube.com/watch?v=S02pxRoxssk)  
 Due to some issue with large file sharing on GitHub, here is a link to itch.io for [full download](https://opophehu.itch.io/v).
 
 ![ProjImage1](https://steam-discount-predictor.s3-us-west-2.amazonaws.com/static/_Vicon.jpg)
